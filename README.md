@@ -1,1 +1,2 @@
 # machine-learning-zoomcamp-homework
+This will be my repository to keep track of my journey learning machine learning with DataTalk club's [Ml-zoomcamp course](https://github.com/DataTalksClub/machine-learning-zoomcamp)
