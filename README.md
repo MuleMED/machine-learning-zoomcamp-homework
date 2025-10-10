@@ -97,8 +97,9 @@ machine-learning-zoomcamp-homework/
 ├── Intro_to_numpy.ipynb       # Module 1 - NumPy basics
 ├── homework-01/               # Homework for Module 1
 ├── homework-02/               # Homework for Module 2
-├── README.md                  # Course overview (this file)
-└── ...                        # Other modules and resources
+├── README.md                  # Course overview 
+└── ...                        
+```
 
 ---
 
