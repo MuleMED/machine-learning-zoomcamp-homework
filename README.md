@@ -97,7 +97,9 @@ machine-learning-zoomcamp-homework/
 ├── Intro_to_numpy.ipynb       # Module 1 - NumPy basics
 ├── homework-01/               # Homework for Module 1
 ├── homework-02/               # Homework for Module 2
-├── README.md                  # Course overview 
+├── homework-03/               # Homework for Module 3
+├── linear_Algebra.ipynb       # Module 2 - Linear Alegbra
+├── README.md                  # Course overview
 └── ...                        
 ```
 
