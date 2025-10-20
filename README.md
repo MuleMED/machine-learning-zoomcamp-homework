@@ -95,9 +95,10 @@ It emphasizes the **engineering side** of machine learning — from data prepara
 machine-learning-zoomcamp-homework/
 │
 ├── Intro_to_numpy.ipynb       # Module 1 - NumPy basics
-├── homework-01/               # Homework for Module 1
-├── homework-02/               # Homework for Module 2
-├── homework-03/               # Homework for Module 3
+├── homework-01/               # Homework 1
+├── homework-02/               # Homework 2
+├── homework-03/               # Homework 3
+├── homework-04/               # Homework 4
 ├── linear_Algebra.ipynb       # Module 2 - Linear Alegbra
 ├── README.md                  # Course overview
 └── ...                        
