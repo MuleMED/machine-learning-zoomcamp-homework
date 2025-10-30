@@ -100,6 +100,7 @@ machine-learning-zoomcamp-homework/
 ├── homework-03/               # Homework 3
 ├── homework-04/               # Homework 4
 ├── homework-05/               # Homework 5
+├── homework-06/               # Homework 6
 ├── linear_Algebra.ipynb       # Module 2 - Linear Alegbra
 ├── README.md                  # Course overview
 └── ...                        
